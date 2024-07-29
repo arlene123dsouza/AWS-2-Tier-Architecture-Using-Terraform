@@ -1,6 +1,6 @@
-.terraform.lock.hcl
-.terraform/
-terraform.tfstate
-terraform.tfstate.backup
-terraform.tfvars
+AWS-architecture/.terraform.lock.hcl
+AWS-architecture/.terraform/
+AWS-architecture/terraform.tfstate
+AWS-architecture/terraform.tfstate.backup
+AWS-architecture/terraform.tfvars
 
